@@ -5,6 +5,12 @@
         "target_path":  "device/google/bonito",
         "revision":     "quartz"
     },
+    {	
+        "remote":       "fast",
+        "repository":   "device_google_bonito-sepolicy",	
+        "target_path":  "device/google/bonito-sepolicy",	
+        "branch":       "quartz"	
+    },
     {
         "remote":       "fast",
         "repository":   "kernel_google_bluecross",
