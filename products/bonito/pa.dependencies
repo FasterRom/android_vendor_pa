@@ -1,0 +1,44 @@
+[
+    {
+        "remote":       "fast",
+        "repository":   "device_google_bonito",
+        "target_path":  "device/google/bonito",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "fast",
+        "repository":   "kernel_google_bluecross",
+        "target_path":  "kernel/google/bluecross",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "gitlab",
+        "repository":   "DirtyUnicorns/android_vendor_images",
+        "target_path":  "vendor/images",
+        "revision":     "q10x"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "quartz-855"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "quartz-855"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "quartz-855"
+    },
+    {	
+        "remote":       "gitlab",
+        "repository":  "AquariOS/vendor_pixelgapps",	
+        "target_path": "vendor/pixelgapps",	
+        "branch":      "x"	
+    },
+]
