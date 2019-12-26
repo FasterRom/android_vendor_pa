@@ -17,24 +17,6 @@
         "target_path":  "vendor/images",
         "revision":     "q10x"
     },
-    {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_audio",
-        "target_path":  "hardware/qcom/audio",
-        "revision":     "quartz-855"
-    },
-    {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_display",
-        "target_path":  "hardware/qcom/display",
-        "revision":     "quartz-855"
-    },
-    {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_media",
-        "target_path":  "hardware/qcom/media",
-        "revision":     "quartz-855"
-    },
     {	
         "remote":       "gitlab",
         "repository":  "AquariOS/vendor_pixelgapps",	
